@@ -22,7 +22,7 @@ An automated web scraper that monitors new housing listings in Berlin and sends 
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/owlandauk/berlin-housing-monitor.git
 cd berlin-housing-monitor
 ```
 
