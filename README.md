@@ -32,6 +32,7 @@ docker-compose up -d
 ```
 
 3. Access n8n at http://localhost:5678
+<img width="2681" height="521" alt="image" src="https://github.com/user-attachments/assets/2895bd12-6044-4653-bede-f47b16c99ba9" />
 
 ### Configuration
 
